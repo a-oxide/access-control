@@ -8,5 +8,11 @@ This program was developed as a final project for the ECEGR-2000 class and as a 
 
 ### Usage  
 This was tested on a Raspbery Pi 3, however any subsequent model should be able to run this program.  
-Clone this repository, then run 'pip install -r requirements.txt'  
-To run the program, you can just run the included bash file: './run.sh'
+Clone this repository, then run:  
+'''
+pip install -r requirements.txt
+'''  
+To run the program, you can just run the included bash file:  
+'''
+./run.sh
+'''
