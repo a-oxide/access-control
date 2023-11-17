@@ -1,4 +1,5 @@
 ## Facial recognition access control  
+
 This is a simple program which uses the flask, flask_simplelogin, opencv, and face_recognition to recognize and identify faces and
 trigger Raspberry Pi GPIO pins as outputs for any device you would like.  
 
