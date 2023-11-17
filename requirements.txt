@@ -1,0 +1,9 @@
+# Webapp
+pip install Flask
+pip install flask_simplelogin
+pip install threading
+# Maybe headless?
+pip install opencv-python
+pip install dlib
+brew install cmake
+pip install face_recognition
